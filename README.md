@@ -1,3 +1,3 @@
 # Portfolios
-ashrithapl.netlify.app
-my portfolio
+https/ashrithapl.netlify.app
+
